@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="https://www.trt1.com.tr" lang="tr" xmltv_id="TRT1.tr" site_id="CH_K">TRT 1</channel>
+  <programme start="20260509015000 +0300" stop="20260215041500 +0300" channel="TRT1.tr">
+    <title lang="tr">Cennetin Çocukları</title>
+    <desc lang="tr">İskender, özünde iyi bir çocuk olsa da sokaklarda, yetimhanelerde, hapishanelerde büyür. Hep bileğinin gücüyle ayakta kalır, karşısına çıkan her engelle savaşır. Ancak yolu bir gün Arafköy'e düşer ve asıl gerçeğin duvarların ardında olduğunu fark eder.Ege'nin sımsıcak kıyılarında, cennetten bir parça gibi duran bu kasabada İskender, geçmişin izlerini sırtında taşır. Kâmil olma yolunda sınanırken, aradığı sevgiyi ve özlemi burada bulur. Cennet Ana, Ayşecik, Oltacı Bayram, Aylak Adem ve herkese el uzatan Doktor Gönül onun hayatına dokunur.</desc>
+    <credits>
+      <director>Soner Caner</director>
+      <actor>İsmail Hacıoğlu</actor>
+      <actor>Özgü Kaya</actor>
+      <actor>Yurdaer Okur</actor>
+      <actor>Melisa Şenolsun</actor>
+    </credits>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260213/94/0800170119625eb8f42a.jpg" />
+    <image type="backdrop" size="3" orient="L">https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260213/94/0800170119625eb8f42a.jpg</image>
+  </programme>
+  <programme start="20260509041500 +0300" stop="20260215050000 +0300" channel="TRT1.tr">
+    <title lang="tr">Hayallerinin Peşinde</title>
+    <desc lang="tr">Hayallerinin Peşinde programında, cesurca girişimleriyle kendi hikayelerinin başkahramanı olan kadınların başarı yolculuğuna şahitlik ediyoruz. Tüm zorlukları aşan, inatçı, hayalperest kadınlar... Devletin desteği ile büyüyen, bulunduğu coğrafyaya ve Türkiye ekonomisine katkı sağlayan bu kadınlar birçok insana ilham veriyor. Onların inançla ulaştıkları başarının mutluluğuna sizler de ortak olun.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260213/51/0800170119705eb8f42a.jpg" />
+    <image type="backdrop" size="3" orient="L">https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260213/51/0800170119705eb8f42a.jpg</image>
+  </programme>
+  <programme start="20260509050000 +0300" stop="20260215054500 +0300" channel="TRT1.tr">
+    <title lang="tr">Turgay Başyayla ile Lezzetli Tavsiye</title>
+    <desc lang="tr">Turgay Başyayla ile yurdumuzun yöresel lezzetlerini keşfetmeye hazır mısınız?</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260213/15/2204212349375eb9542c.jpg" />
+    <image type="backdrop" size="3" orient="L">https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260213/15/2204212349375eb9542c.jpg</image>
+  </programme>
+  <programme start="20260509054500 +0300" stop="20260215114500 +0300" channel="TRT1.tr">
+    <title lang="tr">Kalk Gidelim</title>
+    <desc lang="tr">Mustafa Ali genç yaşında İstanbul'a gelmiş ve çok zengin olmuştur. Ailesinin karşı koymasına rağmen İstanbullu sosyetik bir güzelle evlenmiştir. Bundan sonra Mustafa Ali işlerini fabrika kuracak kadar büyütüp zenginlik yolunda emin adımlarla yürürken ailesini ve doğup büyüdüğü köyünü ihmal etmiştir. Mustafa Ali'nin şirketi de büyümüş zirveye çıkmıştır fakat yanlış kararlar Mustafa Ali’nin çöküşünü hızlandırmıştır. Sonunda iflas bayrağını çekmek zorunda kalan Mustafa Ali, tatile gidiyoruz bahanesiyle ailesini topladığı gibi köyün yolunu tutar.</desc>
+    <credits>
+      <director>Yahya Samancı</director>
+      <actor>Ufuk Özkan</actor>
+      <actor>Erkan Sever</actor>
+      <actor>Ayça Varlıer</actor>
+      <actor>Mehtap Bayri</actor>
+      <producer>Eyüp Üstün</producer>
+    </credits>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260213/93/2204212359455eb9542c.jpg" />
+    <image type="backdrop" size="3" orient="L">https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260213/93/2204212359455eb9542c.jpg</image>
+  </programme>
+  <programme start="20260509114500 +0300" stop="20260215130000 +0300" channel="TRT1.tr">
+    <title lang="tr">Enine Boyuna</title>
+    <desc lang="tr">Türkiye ve dünya gündemine yüzeysel değil, derinlikli bir bakış... Zamanın ruhunu yakalayan gerçek analizler... Olayların arka planına ışık tutan entelektüel yaklaşımlar... Türkiye ve Dünya gündemi yeni konu ve konuklarla Enine Boyuna'da masaya yatırılıyor.</desc>
+    <category lang="tr">Tartışma</category>
+    <icon src="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260209/1/2204265061695eb9b42e.jpg" />
+    <image type="backdrop" size="3" orient="L">https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260209/1/2204265061695eb9b42e.jpg</image>
+  </programme>
+  <programme start="20260509130000 +0300" stop="20260215171500 +0300" channel="TRT1.tr">
+    <title lang="tr">Taşacak Bu Deniz</title>
+    <desc lang="tr">İki düşman aile, Furtunalılar ve Koçarililerin bitmek bilmeyen savaşı yıllardır sürüp gitmektedir. Geçmişte çok büyük bir sevda yaşayan Adil Koçari ile Esme Furtuna kan hakkı yüzünden karşı karşıya gelirler, Esme Adil'i vurur. Aralarındaki tüm düşmanlığa rağmen Adil Koçari Esme Furtuna'yı ele vermez ve ben kendimi vurdum der. Tam o sırada çok uzaklardan gelen Yunan bir Doktor Adil'in hayatını kurtarır. Yunanlı bir anne ve İstanbul Rum'u bir babanın kızı olan bu kız büyük bir sırrın peşine düşüp Trabzon'a gelmiştir.</desc>
+    <credits>
+      <director>Çağrı Bayrak</director>
+      <actor>Ulaş Tuna Astepe</actor>
+      <actor>Deniz Baysal</actor>
+      <actor>Burak Yörük</actor>
+    </credits>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260213/5/2204212339055eb9542c.jpg" />
+    <image type="backdrop" size="3" orient="L">https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260213/5/2204212339055eb9542c.jpg</image>
+  </programme>
+  <programme start="20260509171500 +0300" stop="20260215190000 +0300" channel="TRT1.tr">
+    <title lang="tr">Kod Adı Kırlangıç</title>
+    <desc lang="tr">Suya düşen Yiğit Efe'nin akıbeti büyük korkuya neden olur. Kırlangıçlar arkadaşlarını kurtarmak için zamana karşı yarışırken Yiğit Efe'nin gördüğü rüya yeni sırların kapısını aralar. Diğer yandan Hakan, Taş Kapı'yı aralamak için tehlikeli bir hamle daha yapar. Kapının zorlanmasıyla şehirde açıklanamayan ani bir hava değişimi baş gösterir.Kara Kobralarda dengeler değişmektedir. Atlas, Pars ve Feza'yı Taşa Kapı Muhafızları olarak ilan eder. Pera ise geçmişin gölgesinde kendi planlarını işletirken Aslan'ı hiç beklemediği bir anda gerilimin ortasına atar.Kırlangıçlar ellerindeki taşın gizemini çözmek ve fırtınayı durdurmak için laboratuvarda riskli bir deney yapmaya karar verirler. Ancak bu deney büyük bir tehlikeye dönüşür. Sıvı azot sızıntısı ile laboratuvar bir buz kapanına dönüşürken içeridekiler için her saniye hayati önem taşımaktadır.</desc>
+    <credits>
+      <actor>Serkan Şenalp</actor>
+      <actor>Gizem Arıkan</actor>
+      <actor>Korhan Herduran</actor>
+      <actor>Mine Teber</actor>
+    </credits>
+    <category lang="tr">Çocuk</category>
+    <icon src="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260213/66/2204212349135eb9542c.jpg" />
+    <image type="backdrop" size="3" orient="L">https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260213/66/2204212349135eb9542c.jpg</image>
+  </programme>
+  <programme start="20260509190000 +0300" stop="20260215200000 +0300" channel="TRT1.tr">
+    <title lang="tr">Ana Haber</title>
+    <desc lang="tr">Gün içinde yaşanan gelişmeler, gündemde yer alan konular izleyicilere aktarılıyor. Siyasetten ekonomiye, kültürden sanata Türkiye ve dünya gündemine ilişkin önemli gelişmeler canlı bağlantılarla ekrana geliyor. Program konuklarıyla gündemdeki olayların analizi yapılıyor.</desc>
+    <category lang="tr">Haber</category>
+    <icon src="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260209/19/2204265071905eb9b42e.jpg" />
+    <image type="backdrop" size="3" orient="L">https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260209/19/2204265071905eb9b42e.jpg</image>
+  </programme>
+  <programme start="20260509200000 +0300" stop="20260216001500 +0300" channel="TRT1.tr">
+    <title lang="tr">Teşkilat</title>
+    <desc lang="tr">Ekip, şimdiye kadarki en büyük sınavlarından biriyle karşı karşıyadır. Korkut, Bahar uğruna canını hiçe saymaya hazırken, Altay masumları kurtarmak için tüm sınırları zorlar.Hamdi, Ejder'in yarattığı büyük tehditle yüz yüzedir. Onu yakalamaya bu kadar yaklaşmışken, ailesi için geri dönüşü olmayan bir karar almak zorunda kalır.Altay ise Rutkay'ı, Davut'a karşı kurduğu oyunda etkin bir koz olarak kullanmayı planlar. Ekip her ihtimale karşı hazırlıklıyken, gözünü karartan Hayat'ın hedefinde ise Cevher vardır.</desc>
+    <credits>
+      <director>Burak Arlıel</director>
+      <actor>Tolga Sarıtaş</actor>
+      <actor>Yunus Emre Yıldırımer</actor>
+      <actor>Tuvana Türkay</actor>
+    </credits>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260214/6/1000147235825eb88428.jpg" />
+    <image type="backdrop" size="3" orient="L">https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260214/6/1000147235825eb88428.jpg</image>
+  </programme>
+  <programme start="20260510001500 +0300" stop="20260216013000 +0300" channel="TRT1.tr">
+    <title lang="tr">3'te 3</title>
+    <desc lang="tr">Başarılı programları ile bilinen Pelin Çift’in sunduğu bilgi yarışması 3'te 3'te, Prof. Dr. Tufan Gündüz yorumları ve yarışmacılara yaptığı yardımlarla programa renk katmaya devam ediyor. Büyük ödülün 500.000 lira olduğu yarışmada yarışmacıların kazanmak için yapmaları gereken tek şey ise üst üste üç soruyu doğru cevaplayarak 3’te 3 yapmak...Yarışmacılara her 3’te 3 ten sonra “Tamam mı, devam mı?” sorusu soruluyor. “Tamam” diyen yarışmacı doğru cevapladığı son sorunun ödül miktarını alarak yarışmadan ayrılabiliyor. “Devam” diyen yarışmacı ise daha yüksek bir ödül miktarına ulaşmak için yarışmaya devam edebiliyor. Ayrıca yarışmacı yarışmanın herhangi bir anında önünde bulunan kırmızı butona basarak yarışmayı kendisi için sonlandırabiliyor. Yarışmacı böylelikle 3’te 3 yaparak ulaştığı son ödül rakamının yarısını kazanarak yarışmadan ayrılıyor.</desc>
+    <category lang="tr">Yarışma</category>
+    <icon src="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260210/16/2204199382125eb8f42a.jpg" />
+    <image type="backdrop" size="3" orient="L">https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260210/16/2204199382125eb8f42a.jpg</image>
+  </programme>
+  <programme start="20260510013000 +0300" stop="20260216035000 +0300" channel="TRT1.tr">
+    <title lang="tr">Taşacak Bu Deniz</title>
+    <desc lang="tr">İki düşman aile, Furtunalılar ve Koçarililerin bitmek bilmeyen savaşı yıllardır sürüp gitmektedir. Geçmişte çok büyük bir sevda yaşayan Adil Koçari ile Esme Furtuna kan hakkı yüzünden karşı karşıya gelirler, Esme Adil'i vurur. Aralarındaki tüm düşmanlığa rağmen Adil Koçari Esme Furtuna'yı ele vermez ve ben kendimi vurdum der. Tam o sırada çok uzaklardan gelen Yunan bir Doktor Adil'in hayatını kurtarır. Yunanlı bir anne ve İstanbul Rum'u bir babanın kızı olan bu kız büyük bir sırrın peşine düşüp Trabzon'a gelmiştir.</desc>
+    <credits>
+      <director>Çağrı Bayrak</director>
+      <actor>Ulaş Tuna Astepe</actor>
+      <actor>Deniz Baysal</actor>
+      <actor>Burak Yörük</actor>
+    </credits>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260213/45/2204212349215eb9542c.jpg" />
+    <image type="backdrop" size="3" orient="L">https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260213/45/2204212349215eb9542c.jpg</image>
+  </programme>
+  <programme start="20260510035000 +0300" stop="20260216053000 +0300" channel="TRT1.tr">
+    <title lang="tr">Gönül Dağı</title>
+    <desc lang="tr">Küçük dünyalarında büyük hayaller yeşerten Anadolu çocuklarının, tüm engellere rağmen imkansızı başarmaya çalışan üç kuzenin yaşamından kesitler sunuluyor.</desc>
+    <credits>
+      <director>Yahya Samancı</director>
+      <actor>Berk Atan</actor>
+      <actor>Ferdi Sancar</actor>
+      <actor>Semih Ertürk</actor>
+    </credits>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260213/82/2204212349295eb9542c.jpg" />
+    <image type="backdrop" size="3" orient="L">https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260213/82/2204212349295eb9542c.jpg</image>
+  </programme>
+  <programme start="20260510053000 +0300" stop="20260216063000 +0300" channel="TRT1.tr">
+    <title lang="tr">Turgay Başyayla ile Lezzetli Tavsiye</title>
+    <desc lang="tr">Turgay Başyayla ile yurdumuzun yöresel lezzetlerini keşfetmeye hazır mısınız?</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260210/37/2204199382255eb8f42a.jpg" />
+    <image type="backdrop" size="3" orient="L">https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260210/37/2204199382255eb8f42a.jpg</image>
+  </programme>
+  <programme start="20260510063000 +0300" stop="20260216092000 +0300" channel="TRT1.tr">
+    <title lang="tr">Kalk Gidelim</title>
+    <desc lang="tr">Mustafa Ali genç yaşında İstanbul'a gelmiş ve çok zengin olmuştur. Ailesinin karşı koymasına rağmen İstanbullu sosyetik bir güzelle evlenmiştir. Bundan sonra Mustafa Ali işlerini fabrika kuracak kadar büyütüp zenginlik yolunda emin adımlarla yürürken ailesini ve doğup büyüdüğü köyünü ihmal etmiştir. Mustafa Ali'nin şirketi de büyümüş zirveye çıkmıştır fakat yanlış kararlar Mustafa Ali’nin çöküşünü hızlandırmıştır. Sonunda iflas bayrağını çekmek zorunda kalan Mustafa Ali, tatile gidiyoruz bahanesiyle ailesini topladığı gibi köyün yolunu tutar.</desc>
+    <credits>
+      <director>Yahya Samancı</director>
+      <actor>Ufuk Özkan</actor>
+      <actor>Erkan Sever</actor>
+      <actor>Ayça Varlıer</actor>
+      <actor>Mehtap Bayri</actor>
+      <producer>Eyüp Üstün</producer>
+    </credits>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260210/13/2204199382335eb8f42a.jpg" />
+    <image type="backdrop" size="3" orient="L">https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260210/13/2204199382335eb8f42a.jpg</image>
+  </programme>
+  <programme start="20260510092000 +0300" stop="20260216103000 +0300" channel="TRT1.tr">
+    <title lang="tr">Adını Sen Koy</title>
+    <desc lang="tr">Ömer altı aylık ömrü kalan kardeşinin mutluluğu için hiç beklemediği anda mecburi bir oyunun içinde bulur kendini... Bambaşka bir dünyadan gelen Zehra ile evlenmek zorundadır. Altı aylık sözleşmeli, formalite bir evlilik yapacak, bunun için Zehra'ya istediği parayı ödeyecek, onun altı ayını satın alacaktır.</desc>
+    <credits>
+      <director>Atilla Cengiz</director>
+      <director>Irmak Çengel</director>
+      <actor>Ezgi Baran</actor>
+      <actor>Aykut İğdeli</actor>
+      <actor>Hazal Subaşı</actor>
+      <actor>Erkan Meriç</actor>
+      <producer>Sevgi Birsel</producer>
+    </credits>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260210/96/2204199392415eb8f42a.jpg" />
+    <image type="backdrop" size="3" orient="L">https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260210/96/2204199392415eb8f42a.jpg</image>
+  </programme>
+  <programme start="20260510103000 +0300" stop="20260216131500 +0300" channel="TRT1.tr">
+    <title lang="tr">Alişan ile Hayata Gülümse</title>
+    <desc lang="tr">Alişan ile Hayata Gülümse programı, alanında uzman isimler, Yeşilçam ve sahnelerin birbirinden ünlü isimler ile yurdun dört bir yanından konukları ağırlıyor.Programda uzman isimler, sağlıkla ilgili merak edilenleri anlatıyor, önemli noktaların altını çiziyor. Yeşilçam'dan ve sahnelerden birbirinden ünlü isimler ile sıcak ve içten söyleşiler de programda izleyiciyle buluşuyor. Hatıralar, anekdotlar ve yaşanmış ilginç hikayeler ekranlara geliyor. Ayrıca yurdun dört bir yayınından farklı konu ve konuklar, ünlü şef Beyhan Budakçı’dan püf noktalarıyla pratik ve lezzetli yemek tarifleri Alişan ile Hayata Gülümse'de yer alıyor.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260210/49/2204199392495eb8f42a.jpg" />
+    <image type="backdrop" size="3" orient="L">https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260210/49/2204199392495eb8f42a.jpg</image>
+  </programme>
+  <programme start="20260510131500 +0300" stop="20260216143500 +0300" channel="TRT1.tr">
+    <title lang="tr">Seksenler</title>
+    <desc lang="tr">Klasik bir Türk ailesinin yaşamını konu alan eğlenceli bir dönem sit-com'u... Sosyal hayattaki değişim, hayatımıza giren yeniliklerin bizleri nasıl etkilediği gözler önüne seriliyor. Seksenler dizisi bize kaybettiğimiz insani değerleri yeni nesillere tekrar kazandırmak amacıyla geçmişe yapılmış eğlenceli bir yolculuk... Çocuklar; sobayı, merdaneli makineyi, pul yapıştırıp yolladığımız mektupları, anket defterlerini, siyah önlükleri, kolalı yakaları, sokaklarda koşturarak sürdüğümüz telli arabaları, misket dolu torbaları ilk defa bu dizide görecek.</desc>
+    <credits>
+      <director>Bora Tekay</director>
+      <actor>Rasim Öztekin</actor>
+      <actor>Özlem Türkad</actor>
+      <actor>Şoray Uzun</actor>
+      <actor>Yasemin Conka</actor>
+      <actor>Ayşe Tolga</actor>
+      <producer>Birol Güven</producer>
+    </credits>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260210/79/2204199412575eb8f42a.jpg" />
+    <image type="backdrop" size="3" orient="L">https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260210/79/2204199412575eb8f42a.jpg</image>
+  </programme>
+  <programme start="20260510143500 +0300" stop="20260216174500 +0300" channel="TRT1.tr">
+    <title lang="tr">Kara Ağaç Destanı</title>
+    <desc lang="tr">Osman Ağa'nın karısı Raziye ile Celal Ağa'nın karısı Asiye Hatun hamiledir. İkisinin doğumu aynı anda başlar. Kara Ağaç'ın geleceği dünyaya aynı anda gelen iki bebek Ömer ve Sultan ile dönüşü olmayan bir şekilde değişir.Yıllar geçer. Ömer herkes tarafından sevilen, Kara Ağaç'ı daha mamur hale getirmek için canla başla uğraşan bir genç olur. Sultan ise yıllar sonra Kara Ağaç'ın sonunu getirecek bir haberle gelir. Böylece Ömer ile Sultan'ın kaderleri yeniden kesişir.</desc>
+    <credits>
+      <director>Ufuk Hakan Eren</director>
+      <actor>Olgun Şimşek</actor>
+      <actor>Emre Kıvılcım</actor>
+      <actor>Meltem Akçöl</actor>
+      <actor>Özlem Conker</actor>
+      <producer>Hasan Karul</producer>
+    </credits>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260210/7/2204199412655eb8f42a.jpg" />
+    <image type="backdrop" size="3" orient="L">https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260210/7/2204199412655eb8f42a.jpg</image>
+  </programme>
+  <programme start="20260510174500 +0300" stop="20260216190000 +0300" channel="TRT1.tr">
+    <title lang="tr">Lingo Türkiye</title>
+    <desc lang="tr">Lingo Türkiye'de yarışmacılar, dört harften oluşan kelimeleri bularak ödül kazanmaya başlıyor. Beş harfli kelimelerden oluşan ikinci etapta yarışan üç çift arasında en az ödülü kazanan yarışmacılar eleniyor. Hızlı düşünmenin önemli olduğu Lingo Türkiye'de kaç kelimenin doğru tahmin edildiği değil kasada toplanan ödül miktarı önemli. Kasasında en çok parayı biriktiren çift final etabında yarışmaya hak kazanıyor.</desc>
+    <category lang="tr">Yarışma</category>
+    <icon src="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260210/51/2204199412735eb8f42a.jpg" />
+    <image type="backdrop" size="3" orient="L">https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260210/51/2204199412735eb8f42a.jpg</image>
+  </programme>
+  <programme start="20260510190000 +0300" stop="20260216195500 +0300" channel="TRT1.tr">
+    <title lang="tr">Ana Haber</title>
+    <desc lang="tr">Gün içinde yaşanan gelişmeler, gündemde yer alan konular izleyicilere aktarılıyor. Siyasetten ekonomiye, kültürden sanata Türkiye ve dünya gündemine ilişkin önemli gelişmeler canlı bağlantılarla ekrana geliyor. Program konuklarıyla gündemdeki olayların analizi yapılıyor.</desc>
+    <category lang="tr">Haber</category>
+    <icon src="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260210/89/2204199412815eb8f42a.jpg" />
+    <image type="backdrop" size="3" orient="L">https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260210/89/2204199412815eb8f42a.jpg</image>
+  </programme>
+  <programme start="20260510195500 +0300" stop="20260216200000 +0300" channel="TRT1.tr">
+    <title lang="tr">İddiaların Aksine</title>
+    <desc lang="tr">Her gün farklı mecralarda birçok haberle karşılaşıyoruz. Peki bu haberler ne kadar doğru? Haberlerin doğru mu yoksa çarpıtma mı olduğunu nasıl anlayabiliriz?</desc>
+    <category lang="tr">Haber</category>
+    <icon src="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260210/19/2204199422895eb8f42a.jpg" />
+    <image type="backdrop" size="3" orient="L">https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260210/19/2204199422895eb8f42a.jpg</image>
+  </programme>
+  <programme start="20260510200000 +0300" stop="20260217001500 +0300" channel="TRT1.tr">
+    <title lang="tr">Cennetin Çocukları</title>
+    <desc lang="tr">İskender, özünde iyi bir çocuk olsa da sokaklarda, yetimhanelerde, hapishanelerde büyür. Hep bileğinin gücüyle ayakta kalır, karşısına çıkan her engelle savaşır. Ancak yolu bir gün Arafköy'e düşer ve asıl gerçeğin duvarların ardında olduğunu fark eder.Ege'nin sımsıcak kıyılarında, cennetten bir parça gibi duran bu kasabada İskender, geçmişin izlerini sırtında taşır. Kâmil olma yolunda sınanırken, aradığı sevgiyi ve özlemi burada bulur. Cennet Ana, Ayşecik, Oltacı Bayram, Aylak Adem ve herkese el uzatan Doktor Gönül onun hayatına dokunur.</desc>
+    <credits>
+      <director>Soner Caner</director>
+      <actor>İsmail Hacıoğlu</actor>
+      <actor>Özgü Kaya</actor>
+      <actor>Yurdaer Okur</actor>
+      <actor>Melisa Şenolsun</actor>
+    </credits>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260210/9/2204199422975eb8f42a.jpg" />
+    <image type="backdrop" size="3" orient="L">https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260210/9/2204199422975eb8f42a.jpg</image>
+  </programme>
+  <programme start="20260511001500 +0300" stop="20260217021500 +0300" channel="TRT1.tr">
+    <title lang="tr">Vefa Sultan</title>
+    <desc lang="tr">İstanbul’un manevi sultanlarından Muslihuddin Mustafa’nın (Vefa Sultan) ilme adanmış hayatını anlatan yapım, dönemin sosyal ve kültürel yapısını etkileyici bir atmosferle ekrana taşıyor.</desc>
+    <credits>
+      <director>Gürsel Ateş</director>
+      <director>Ahmet Toklu</director>
+      <actor>İsmail Ege Şaşmaz</actor>
+      <actor>Alper Türedi</actor>
+      <actor>Mert Karabulut</actor>
+    </credits>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260211/35/2204198612825eb88428.jpg" />
+    <image type="backdrop" size="3" orient="L">https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260211/35/2204198612825eb88428.jpg</image>
+  </programme>
+  <programme start="20260511021500 +0300" stop="20260217053000 +0300" channel="TRT1.tr">
+    <title lang="tr">Dizi</title>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260211/17/2204198612885eb88428.jpg" />
+    <image type="backdrop" size="3" orient="L">https://izmottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/program/202602/20260211/17/2204198612885eb88428.jpg</image>
+  </programme>
+</channels>
