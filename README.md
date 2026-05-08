@@ -14,3 +14,7 @@ Projeyi yerel bilgisayarınıza indirmek için terminale şu komutu yazın:
 
 ```bash
 git clone [https://github.com/bnyusuf31-lab/epg.git](https://github.com/bnyusuf31-lab/epg.git)
+---
+
+### Küçük Bir İpucu:
+GitHub sayfanızda projenin ne işe yaradığını gösteren bir ekran görüntüsü (screenshot) varsa, onu da README dosyasına eklemek kullanıcılar için çok daha açıklayıcı olacaktır. Kodunuzda herhangi bir hata alırsanız veya bir özellik eklemek isterseniz sormaktan çekinmeyin!
